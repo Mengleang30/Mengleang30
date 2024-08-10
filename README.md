@@ -7,7 +7,7 @@ Java code example:
 ```Java
 public class App {
 public static void main(String[] args) {
-System.out.println("Welcome to IPE TP01.");
+System.out.println("Welcome to My GitHub .");
 }
 }
 ```

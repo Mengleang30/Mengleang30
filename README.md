@@ -34,7 +34,7 @@ I enjoy building real-world projects, learning new technologies, and improving m
 
 ### **DevOps & Infrastructure**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,bash" />
 </p>
 
 - 🐳 **Docker** — containerizing Laravel, Spring Boot, NestJS, and MySQL  

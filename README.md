@@ -24,7 +24,7 @@ I enjoy building real-world projects, learning new technologies, and improving m
 
 ### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,express,php,python,java,spring" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,php," />
 </p>
 
 ### **Database**
@@ -69,7 +69,7 @@ Role-based access (Admin & Customer) + MySQL + Sanctum-style token flow.
 ## 📫 Contact Me
 - 📧 Email: **novmengleang14@gmail.com**
 - 💼 LinkedIn (optional: I can help create one)
-- 🌍 Portfolio: *(Send me your link and I’ll add it)*
+- 🌍 Portfolio: *https://vue-porfolio-eight.vercel.app/*
 
 ---
 

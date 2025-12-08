@@ -31,10 +31,11 @@ I enjoy building real-world projects, learning new technologies, and improving m
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
+---
 
 ### **Tools & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,niginx,vscode,postman" />
 </p>
 
 ---

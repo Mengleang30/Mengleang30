@@ -9,7 +9,7 @@ I'm an IT student passionate about **web development**, specializing in:
 - 🌐 Frontend: Vue.js, React, TailwindCSS  
 - 🖥 Backend: Laravel, NestJS, Express.js, Node.js  
 - 🐳 DevOps & Tools: Docker, MySQL, Git, Linux  
-- 🛠 API Development, Authentication (Sanctum), User Management  
+- 🛠 API Development, Authentication (Sanctum)  
 
 I enjoy building real-world projects, learning new technologies, and improving my problem-solving skills.
 
@@ -24,7 +24,7 @@ I enjoy building real-world projects, learning new technologies, and improving m
 
 ### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,php," />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,php,go, golang" />
 </p>
 
 ### **Database**

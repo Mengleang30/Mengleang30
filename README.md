@@ -44,31 +44,15 @@ I enjoy building real-world projects, learning new technologies, and improving m
 ### 🔹 **📚 Bookstore Web App (Vue.js + Laravel + Docker)**
 A full-stack bookstore system with authentication, order management, payments, and admin dashboard.
 
-### 🔹 **🛒 Ticket Shop Frontend**
-A responsive front-end ticket shopping system built with Vue.js.
-
-### 🔹 **👥 Social Media App (React + FastAPI)**
+### 🔹 **👥 Backend School Management System  (Laravel + mysql)**
 Frontend + backend API with authentication and user interaction.
 
-### 🔹 **👨‍💻 NestJS User Management API**
-Role-based access (Admin & Customer) + MySQL + Sanctum-style token flow.
-
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=novmengleang&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novmengleang&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Contact Me
 - 📧 Email: **novmengleang14@gmail.com**
-- 💼 LinkedIn (optional: I can help create one)
+- 📱 Phone: **060654575**
 - 🌍 Portfolio: *https://vue-porfolio-eight.vercel.app/*
 
 ---

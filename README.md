@@ -45,7 +45,7 @@ I enjoy building real-world projects, learning new technologies, and improving m
 A full-stack bookstore system with authentication, order management, payments, and admin dashboard.
 
 ### 🔹 **👥 Backend School Management System  (Laravel + mysql)**
-Frontend + backend API with authentication and user interaction.
+backend API with full SMIS for an university.
 
 ---
 

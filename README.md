@@ -37,7 +37,7 @@ I enjoy building real-world projects, learning new technologies, and improving m
   <img src="https://skillicons.dev/icons?i=docker,nginx,linux,bash" />
 </p>
 
-- 🐳 **Docker** — containerizing Laravel, Spring Boot, NestJS, and MySQL  
+- 🐳 **Docker** — containerizing services  
 - 🌐 **Nginx** — reverse proxy, load balancing basics  
 - 🐧 **Linux Administration** — permissions, services, networking  
 - ⚙️ **CI/CD (Basic)** — GitHub Actions pipeline for testing & deployment  

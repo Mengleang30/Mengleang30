@@ -31,12 +31,18 @@ I enjoy building real-world projects, learning new technologies, and improving m
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
----
 
-### **Tools & DevOps**
+### **DevOps & Infrastructure**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,niginx,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,bash" />
 </p>
+
+- 🐳 **Docker** — containerizing Laravel, Spring Boot, NestJS, and MySQL  
+- 🌐 **Nginx** — reverse proxy, load balancing basics  
+- 🐧 **Linux Administration** — permissions, services, networking  
+- ⚙️ **CI/CD (Basic)** — GitHub Actions pipeline for testing & deployment  
+- 🔐 **Security** — environment variables, database access rules  
+- 📦 **Package & Environment Management** — npm, pnpm, composer, pip  
 
 ---
 

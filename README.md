@@ -44,6 +44,15 @@ I enjoy building real-world projects, learning new technologies, and improving m
 - 🔐 **Security** — environment variables, database access rules  
 - 📦 **Package & Environment Management** — npm, pnpm, composer, pip  
 
+### **Developer Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+
+- 🔧 Git & GitHub workflow (branches, PRs, issues)  
+- 📬 Postman for API testing  
+- 📝 VS Code for development  
+- 🎨 Figma for UI planning 
 ---
 
 ## 📌 Featured Projects

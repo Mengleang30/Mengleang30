@@ -29,7 +29,7 @@ I enjoy building real-world projects, learning new technologies, and improving m
 
 ### **Database**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongoldb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
 ### **DevOps & Infrastructure**

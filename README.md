@@ -24,7 +24,7 @@ I enjoy building real-world projects, learning new technologies, and improving m
 
 ### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,php,go" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,php" />
 </p>
 
 ### **Database**

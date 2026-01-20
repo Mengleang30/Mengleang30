@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nov MengLeang 👋</h1>
-<p align="center">5-th Year Information Technology Student | Web Developer | API & DevOps Learner</p>
+<p align="center">Full Stack Web Developer | API & DevOps Learner</p>
 
 ---
 

@@ -69,7 +69,7 @@ backend API with full SMIS for an university.
 ## 📫 Contact Me
 - 📧 Email: **novmengleang14@gmail.com**
 - 📱 Phone: **060654575**
-- 🌍 Portfolio: *https://vue-porfolio-eight.vercel.app/*
+- 🌍 Portfolio: *https://nov-mengleang.vercel.app/*
 
 ---
 

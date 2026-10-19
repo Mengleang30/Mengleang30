@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Nov MengLeang 👋</h1>
-<p align="center">Full Stack Web Developer | API & DevOps Learner</p>
+<p align="center">Software Developer </p>
 
 ---
 
 ## 🚀 About Me
-I'm an IT student passionate about **web development**, specializing in:
+I'm an software developer about **Full stack development**, specializing in:
 
-- 🌐 Frontend: Vue.js, React, TailwindCSS  
+- 🌐 Frontend: Vue.js, React, TailwindCSS and Flutter (mobile app).
 - 🖥 Backend: Laravel, Golang, Node.js  
 - 🐳 DevOps & Tools: Docker, MySQL, Git, Linux  
 - 🛠 API Development,REST API
